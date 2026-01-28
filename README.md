@@ -1,6 +1,6 @@
 # 🌐 Raphael Amaral – Economics and Data Science
 
-I am an Economist and Statistician specializing in data analysis 
+Economist and Statistician | Data Science & Analytics
 
 
 
